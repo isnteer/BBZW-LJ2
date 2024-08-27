@@ -8,24 +8,31 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/nilssteiner/.nuget/packages/": {}
+    "C:\\Users\\n.steiner.BOAG\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/Vertiefungsaufgabe01 /BBZW M320/BBZW M320.csproj",
+      "projectUniqueName": "C:\\Daten\\Schule\\BBZW-LJ2\\BBZW-LJ2\\M320-S-INA23cL-Zor\\Aufgaben\\Vertiefungsaufgabe01\\BBZW M320\\BBZW M320.csproj",
       "projectName": "BBZW M320",
-      "projectPath": "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/Vertiefungsaufgabe01 /BBZW M320/BBZW M320.csproj",
-      "packagesPath": "/Users/nilssteiner/.nuget/packages/",
-      "outputPath": "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/Vertiefungsaufgabe01 /BBZW M320/obj/",
+      "projectPath": "C:\\Daten\\Schule\\BBZW-LJ2\\BBZW-LJ2\\M320-S-INA23cL-Zor\\Aufgaben\\Vertiefungsaufgabe01\\BBZW M320\\BBZW M320.csproj",
+      "packagesPath": "C:\\Users\\n.steiner.BOAG\\.nuget\\packages\\",
+      "outputPath": "C:\\Daten\\Schule\\BBZW-LJ2\\BBZW-LJ2\\M320-S-INA23cL-Zor\\Aufgaben\\Vertiefungsaufgabe01\\BBZW M320\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/nilssteiner/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\n.steiner.BOAG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/nilssteiner/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

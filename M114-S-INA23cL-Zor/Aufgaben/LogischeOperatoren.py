@@ -63,3 +63,6 @@
 #                    print(f"Binär: {A}{B}{C}{D} -> Durch 3 teilbar: Ja")
 #                else:
 #                    print(f"Binär: {A}{B}{C}{D} -> Durch 3 teilbar: Nein")
+
+
+# Link zu den Digitalen Schaltungen 'https://simulator.io/board/mvaQmd6kag/1'
