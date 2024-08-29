@@ -1,15 +1,30 @@
-C:\Daten\Schule\BBZW-LJ2\BBZW-LJ2\M320-S-INA23cL-Zor\Aufgaben\Vertiefungsaufgabe01\BBZW M320\bin\Debug\net8.0\BBZW M320.exe
-C:\Daten\Schule\BBZW-LJ2\BBZW-LJ2\M320-S-INA23cL-Zor\Aufgaben\Vertiefungsaufgabe01\BBZW M320\bin\Debug\net8.0\BBZW M320.deps.json
-C:\Daten\Schule\BBZW-LJ2\BBZW-LJ2\M320-S-INA23cL-Zor\Aufgaben\Vertiefungsaufgabe01\BBZW M320\bin\Debug\net8.0\BBZW M320.runtimeconfig.json
-C:\Daten\Schule\BBZW-LJ2\BBZW-LJ2\M320-S-INA23cL-Zor\Aufgaben\Vertiefungsaufgabe01\BBZW M320\bin\Debug\net8.0\BBZW M320.dll
-C:\Daten\Schule\BBZW-LJ2\BBZW-LJ2\M320-S-INA23cL-Zor\Aufgaben\Vertiefungsaufgabe01\BBZW M320\bin\Debug\net8.0\BBZW M320.pdb
-C:\Daten\Schule\BBZW-LJ2\BBZW-LJ2\M320-S-INA23cL-Zor\Aufgaben\Vertiefungsaufgabe01\BBZW M320\obj\Debug\net8.0\BBZW M320.GeneratedMSBuildEditorConfig.editorconfig
-C:\Daten\Schule\BBZW-LJ2\BBZW-LJ2\M320-S-INA23cL-Zor\Aufgaben\Vertiefungsaufgabe01\BBZW M320\obj\Debug\net8.0\BBZW M320.AssemblyInfoInputs.cache
-C:\Daten\Schule\BBZW-LJ2\BBZW-LJ2\M320-S-INA23cL-Zor\Aufgaben\Vertiefungsaufgabe01\BBZW M320\obj\Debug\net8.0\BBZW M320.AssemblyInfo.cs
-C:\Daten\Schule\BBZW-LJ2\BBZW-LJ2\M320-S-INA23cL-Zor\Aufgaben\Vertiefungsaufgabe01\BBZW M320\obj\Debug\net8.0\BBZW M320.csproj.CoreCompileInputs.cache
-C:\Daten\Schule\BBZW-LJ2\BBZW-LJ2\M320-S-INA23cL-Zor\Aufgaben\Vertiefungsaufgabe01\BBZW M320\obj\Debug\net8.0\BBZW M320.sourcelink.json
-C:\Daten\Schule\BBZW-LJ2\BBZW-LJ2\M320-S-INA23cL-Zor\Aufgaben\Vertiefungsaufgabe01\BBZW M320\obj\Debug\net8.0\BBZW M320.dll
-C:\Daten\Schule\BBZW-LJ2\BBZW-LJ2\M320-S-INA23cL-Zor\Aufgaben\Vertiefungsaufgabe01\BBZW M320\obj\Debug\net8.0\refint\BBZW M320.dll
-C:\Daten\Schule\BBZW-LJ2\BBZW-LJ2\M320-S-INA23cL-Zor\Aufgaben\Vertiefungsaufgabe01\BBZW M320\obj\Debug\net8.0\BBZW M320.pdb
-C:\Daten\Schule\BBZW-LJ2\BBZW-LJ2\M320-S-INA23cL-Zor\Aufgaben\Vertiefungsaufgabe01\BBZW M320\obj\Debug\net8.0\BBZW M320.genruntimeconfig.cache
-C:\Daten\Schule\BBZW-LJ2\BBZW-LJ2\M320-S-INA23cL-Zor\Aufgaben\Vertiefungsaufgabe01\BBZW M320\obj\Debug\net8.0\ref\BBZW M320.dll
+C:/Daten/Schule/BBZW-LJ2/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/bin/Debug/net8.0/BBZW M320.exe
+C:/Daten/Schule/BBZW-LJ2/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/bin/Debug/net8.0/BBZW M320.deps.json
+C:/Daten/Schule/BBZW-LJ2/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/bin/Debug/net8.0/BBZW M320.runtimeconfig.json
+C:/Daten/Schule/BBZW-LJ2/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/bin/Debug/net8.0/BBZW M320.dll
+C:/Daten/Schule/BBZW-LJ2/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/bin/Debug/net8.0/BBZW M320.pdb
+C:/Daten/Schule/BBZW-LJ2/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.GeneratedMSBuildEditorConfig.editorconfig
+C:/Daten/Schule/BBZW-LJ2/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.AssemblyInfoInputs.cache
+C:/Daten/Schule/BBZW-LJ2/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.AssemblyInfo.cs
+C:/Daten/Schule/BBZW-LJ2/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.csproj.CoreCompileInputs.cache
+C:/Daten/Schule/BBZW-LJ2/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.sourcelink.json
+C:/Daten/Schule/BBZW-LJ2/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.dll
+C:/Daten/Schule/BBZW-LJ2/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/refint/BBZW M320.dll
+C:/Daten/Schule/BBZW-LJ2/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.pdb
+C:/Daten/Schule/BBZW-LJ2/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.genruntimeconfig.cache
+C:/Daten/Schule/BBZW-LJ2/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/ref/BBZW M320.dll
+/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/bin/Debug/net8.0/BBZW M320
+/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/bin/Debug/net8.0/BBZW M320.deps.json
+/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/bin/Debug/net8.0/BBZW M320.runtimeconfig.json
+/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/bin/Debug/net8.0/BBZW M320.dll
+/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/bin/Debug/net8.0/BBZW M320.pdb
+/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.AssemblyInfoInputs.cache
+/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.AssemblyInfo.cs
+/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.csproj.CoreCompileInputs.cache
+/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.sourcelink.json
+/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.dll
+/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/refint/BBZW M320.dll
+/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.pdb
+/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/BBZW M320.genruntimeconfig.cache
+/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/Debug/net8.0/ref/BBZW M320.dll

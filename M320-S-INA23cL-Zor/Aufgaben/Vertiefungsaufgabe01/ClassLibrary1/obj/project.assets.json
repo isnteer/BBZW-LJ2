@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/BBZW M320.csproj",
-      "projectName": "BBZW M320",
-      "projectPath": "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/BBZW M320.csproj",
+      "projectUniqueName": "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/ClassLibrary1/ClassLibrary1.csproj",
+      "projectName": "ClassLibrary1",
+      "projectPath": "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/ClassLibrary1/ClassLibrary1.csproj",
       "packagesPath": "/Users/nilssteiner/.nuget/packages/",
-      "outputPath": "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/BBZW M320/obj/",
+      "outputPath": "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/ClassLibrary1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nilssteiner/.nuget/NuGet/NuGet.Config"

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BBZW M320")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ClassLibrary1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd695f19ecd7842142f1aa0c7b4acfbf311da6bb")]
-[assembly: System.Reflection.AssemblyProductAttribute("BBZW M320")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BBZW M320")]
+[assembly: System.Reflection.AssemblyProductAttribute("ClassLibrary1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ClassLibrary1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.
