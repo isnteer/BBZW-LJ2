@@ -34,8 +34,8 @@ public class Zylinder
 
         public Zylinder()
         {
-            durchmesser = 1.0; // Default-Wert
-            hoehe = 1.0; // Default-Wert
+            durchmesser = 1.0;
+            hoehe = 1.0;
         }
 
         public Zylinder(double durchmesser, double hoehe)
