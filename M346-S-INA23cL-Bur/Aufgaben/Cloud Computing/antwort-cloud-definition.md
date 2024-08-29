@@ -19,7 +19,7 @@ Die Berufsschule verschenkt ältere PCs an die Lernenden. Ihre Klasse beschliess
 **Handelt es sich bei diesem Angebot um eine “Cloud”? Was spricht dafür, was dagegen? Argumentieren Sie mithilfe der fünf grundlegenden Cloud-Charakteristiken! (Bei Unklarheiten dürfen Sie auch Annahmen treffen, wenn Sie diese dokumentieren.)**
 
 **Antwort:**
-*(Hier die Antwort einfügen)*
+*Das Angebot hat einige Eigenschaften einer Cloud, wie den Zugang über das Internet und die Möglichkeit, den Service selbst zu buchen. Allerdings fehlt die Flexibilität und automatische Anpassung der Ressourcen, die typisch für echte Cloud-Dienste ist. Deshalb ist es eher ein einfacher Hosting-Dienst und keine echte Cloud.*
 
 ---
 
@@ -29,9 +29,9 @@ Die Berufsschule verschenkt ältere PCs an die Lernenden. Ihre Klasse beschliess
 Nennen Sie drei konkrete Beispiele für das Service-Modell “Software as a Service” (SaaS)!
 
 **Antwort:**
-1. *(Antwort hier einfügen)*
-2. *(Antwort hier einfügen)*
-3. *(Antwort hier einfügen)*
+1. *Microsoft 365*
+2. *Google Workspace*
+3. *Oracle CRM*
 
 ---
 
@@ -39,26 +39,26 @@ Nennen Sie drei konkrete Beispiele für das Service-Modell “Software as a Serv
 Finden Sie für folgende Angebote je einen Anbieter und geben Sie eine URL an, welche auf das jeweilige Angebot verweist:
 
 - **Compute:**  
-  **Antwort:** *(Anbieter und URL hier einfügen)*
+  *Antwort:* *URL:* [AWS Compute Services](https://aws.amazon.com/products/compute/)
 
 - **Function:**  
-  **Antwort:** *(Anbieter und URL hier einfügen)*
+  *Antwort:* *URL:* [Microsoft Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
 
 - **Storage:**  
-  **Antwort:** *(Anbieter und URL hier einfügen)*
+  *Antwort:* *URL:* [IBM Cloud Storage](https://www.ibm.com/cloud/storage)
 
 - **Datenbank:**  
-  **Antwort:** *(Anbieter und URL hier einfügen)*
+  *Antwort:* *URL:* [Google Cloud SQL](https://cloud.google.com/sql)
 
 **Welche konkreten Datenbanksysteme (Name der Software) werden angeboten?**
 
 **Antwort:**
-*(Antwort hier einfügen)*
+*Microsoft Azure:* Azure SQL Database, Azure Cosmos DB, Azure Database for MySQL
 
 **Was haben diese Cloud-Anbieter sonst noch im Angebot?**
 
 **Antwort:**
-*(Antwort hier einfügen)*
+*Microsoft Azure:* DevOps-Tools, KI-Dienste, Analysedienste, hybride Cloud-Lösungen.
 
 ---
 
@@ -68,9 +68,9 @@ Finden Sie für folgende Angebote je einen Anbieter und geben Sie eine URL an, w
 Nennen Sie drei Beispiele für eine “Public Cloud”!
 
 **Antwort:**
-1. *(Antwort hier einfügen)*
-2. *(Antwort hier einfügen)*
-3. *(Antwort hier einfügen)*
+1. *AWS*
+2. *GCP*
+3. *Microsoft Azure*
 
 ---
 
@@ -78,4 +78,4 @@ Nennen Sie drei Beispiele für eine “Public Cloud”!
 Welche Art von Gesellschaft/Organisation könnte Bedarf nach einer “Community Cloud” haben? Was wäre hier der Vorteil gegenüber einer private/public/hybrid Cloud?
 
 **Antwort:**
-*(Antwort hier einfügen)*
+*Organisationen wie Regierungsbehörden oder Gesundheitsnetzwerke profitieren von einer Community Cloud, da sie gemeinsame Sicherheits- und Compliance-Anforderungen erfüllt und kosteneffizienter als eine Private Cloud ist.*

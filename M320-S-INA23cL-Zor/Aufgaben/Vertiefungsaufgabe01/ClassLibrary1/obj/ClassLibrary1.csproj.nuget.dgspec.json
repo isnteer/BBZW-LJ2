@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/ClassLibrary1/ClassLibrary1.csproj": {}
+    "/Users/nilssteiner/Documents/GitHub/Ohne Titel/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/ClassLibrary1/ClassLibrary1.csproj": {}
   },
   "projects": {
-    "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/ClassLibrary1/ClassLibrary1.csproj": {
+    "/Users/nilssteiner/Documents/GitHub/Ohne Titel/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/ClassLibrary1/ClassLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/ClassLibrary1/ClassLibrary1.csproj",
+        "projectUniqueName": "/Users/nilssteiner/Documents/GitHub/Ohne Titel/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/ClassLibrary1/ClassLibrary1.csproj",
         "projectName": "ClassLibrary1",
-        "projectPath": "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/ClassLibrary1/ClassLibrary1.csproj",
+        "projectPath": "/Users/nilssteiner/Documents/GitHub/Ohne Titel/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/ClassLibrary1/ClassLibrary1.csproj",
         "packagesPath": "/Users/nilssteiner/.nuget/packages/",
-        "outputPath": "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/ClassLibrary1/obj/",
+        "outputPath": "/Users/nilssteiner/Documents/GitHub/Ohne Titel/BBZW-LJ2/M320-S-INA23cL-Zor/Aufgaben/Vertiefungsaufgabe01/ClassLibrary1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nilssteiner/.nuget/NuGet/NuGet.Config"

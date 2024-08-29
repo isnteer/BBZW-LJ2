@@ -1,6 +1,6 @@
 ﻿namespace BBZW_M320;
-
-class Program
+using ClassLibrary1;
+public class Program
 {
     static void Main() 
 
